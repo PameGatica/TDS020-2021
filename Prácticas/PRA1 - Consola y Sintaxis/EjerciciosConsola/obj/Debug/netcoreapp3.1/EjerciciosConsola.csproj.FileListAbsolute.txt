@@ -1,0 +1,13 @@
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.exe
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.deps.json
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.runtimeconfig.json
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.runtimeconfig.dev.json
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.dll
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\bin\Debug\netcoreapp3.1\EjerciciosConsola.pdb
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.dll
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.pdb
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosConsola\obj\Debug\netcoreapp3.1\EjerciciosConsola.genruntimeconfig.cache

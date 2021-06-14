@@ -1,0 +1,12 @@
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\bin\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.exe
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\bin\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.deps.json
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\bin\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.runtimeconfig.json
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\bin\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.runtimeconfig.dev.json
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\bin\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.dll
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\bin\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.pdb
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\obj\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\obj\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\obj\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\obj\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.dll
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\obj\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.pdb
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Prácticas\PRA1 - Consola y Sintaxis\EjerciciosFundamentosdeCSharp\obj\Debug\netcoreapp3.1\EjerciciosFundamentosdeCSharp.genruntimeconfig.cache
