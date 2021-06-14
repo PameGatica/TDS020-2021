@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.exe
+C:\Users\alexi\source\repos\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.deps.json
+C:\Users\alexi\source\repos\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.runtimeconfig.json
+C:\Users\alexi\source\repos\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.dll
+C:\Users\alexi\source\repos\EstructurasDeDatos\bin\Debug\netcoreapp3.1\EstructurasDeDatos.pdb
+C:\Users\alexi\source\repos\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.AssemblyInfo.cs
+C:\Users\alexi\source\repos\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.dll
+C:\Users\alexi\source\repos\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.pdb
+C:\Users\alexi\source\repos\EstructurasDeDatos\obj\Debug\netcoreapp3.1\EstructurasDeDatos.genruntimeconfig.cache
