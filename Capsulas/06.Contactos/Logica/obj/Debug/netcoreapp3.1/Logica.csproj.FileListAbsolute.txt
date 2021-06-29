@@ -6,3 +6,12 @@ C:\Users\alexi\source\repos\Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.Asse
 C:\Users\alexi\source\repos\Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
 C:\Users\alexi\source\repos\Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.dll
 C:\Users\alexi\source\repos\Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+C:\Users\alexi\OneDrive\Clases\Documentos\GitHub\TDS020-2021\Capsulas\06.Contactos\Logica\obj\Debug\netcoreapp3.1\Logica.pdb

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Presentacion\\Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Presentacion\\Presentacion.csproj",
+      "projectPath": "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Presentacion\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Presentacion\\obj\\",
+      "outputPath": "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Logica\\Logica.csproj": {
-              "projectPath": "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Logica\\Logica.csproj"
+            "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Logica\\Logica.csproj": {
+              "projectPath": "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Logica\\Logica.csproj"
             }
           }
         }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PresentacionWPF/1.0.0": {
+        "dependencies": {
+          "Logica": "1.0.0"
+        },
+        "runtime": {
+          "PresentacionWPF.dll": {}
+        }
+      },
+      "Logica/1.0.0": {
+        "runtime": {
+          "Logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PresentacionWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

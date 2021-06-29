@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Logica\\Logica.csproj": {}
+    "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Logica\\Logica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Logica\\Logica.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Logica\\Logica.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Logica\\Logica.csproj",
         "projectName": "Logica",
-        "projectPath": "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Logica\\Logica.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\source\\repos\\06.Contactos\\Logica\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Clases\\Documentos\\GitHub\\TDS020-2021\\Capsulas\\06.Contactos\\Logica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
